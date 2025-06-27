@@ -1,0 +1,25 @@
+# Treat files as C++
+mode=c++
+
+# Use spaces, 4 per indent
+indent=spaces=4
+
+# Attach ALL braces to the preceding line
+attach-case   = true
+attach-closing-brace = true
+attach-else   = true
+attach-inline-functions = true
+attach-headers = true
+attach-namespaces = true
+attach-classes = true
+attach-functions = true
+attach-inlines = true
+
+# Allow single-line if/while/for bodies
+--keep-one-line-blocks
+
+# Other niceties
+pad-oper   = false   # no extra spaces around operators
+unpad-paren = true   # remove spaces just inside parens
+break-after-logical = false
+max-code-length = 0  # no forced wrapping
