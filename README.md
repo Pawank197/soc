@@ -1,1 +1,1 @@
-So there's two folders in which I had given my code: learning and leetcode. But in the codeforces contests, I had participated will the first seven contests, but then couldn't due to my ITSP and other projects. So it only contains the code of those weeks in which i had participated.
+So there's two folders in which I had given my code: Codeforces and leetcode. Bookx.cpp are some codes which i found in the book and weren't able to think how to code it or how it worked.
